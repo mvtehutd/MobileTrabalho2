@@ -1,0 +1,26 @@
+{
+  "jogos": "Jogos",
+  "jogo": "Jogo",
+  "jogos_dia": "Jogos de Hoje",
+  "nenhum_jogo": "Nenhum Jogo Encontrado.",
+  "campeonatos": "Campeonatos",
+  "campeonato": "Campeonato",
+  "nenhum_campeonato": "Nenhum Campeonato Encontrado.",
+  "recarregar": "Recarregar",
+  "palpite": "Palpite",
+  "votou_em": "Você votou em:",
+  "empate": "Empate",
+  "excluir_palpite": "Excluir Palpite",
+  "erro": "Erro",
+
+  "time": "Time",
+  "pontos": "P",
+  "jogosTabela": "J",
+  "vitorias": "V",
+  "empates": "E",
+  "derrotas": "D",
+  "gols_pro": "GP",
+  "gols_contra": "GC",
+  "saldo_gols": "SG",
+  "aproveitamento": "%"
+}

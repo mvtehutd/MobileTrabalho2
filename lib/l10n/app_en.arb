@@ -1,0 +1,26 @@
+{
+  "jogos": "Scores",
+  "jogo": "Match",
+  "jogos_dia": "Today Schedule",
+  "nenhum_jogo": "No Match Found.",
+  "campeonatos": "Competitions",
+  "campeonato": "Competition",
+  "nenhum_campeonato": "No Competition Found.",
+  "recarregar": "Reload",
+  "palpite": "Prediction",
+  "votou_em": "You voted for:",
+  "empate": "Draw",
+  "excluir_palpite": "Delete Prediction",
+  "erro": "Error",
+
+  "time": "Team",
+  "pontos": "PTS",
+  "jogosTabela": "P",
+  "vitorias": "W",
+  "empates": "D",
+  "derrotas": "L",
+  "gols_pro": "GF",
+  "gols_contra": "GA",
+  "saldo_gols": "GD",
+  "aproveitamento": "%"
+}
